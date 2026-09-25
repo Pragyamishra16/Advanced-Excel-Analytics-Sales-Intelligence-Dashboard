@@ -1,3 +1,4 @@
+<img width="1496" height="824" alt="image" src="https://github.com/user-attachments/assets/736f785e-d753-4a67-a338-9e3b9d34ae01" />
 Sales Performance Dashboard (2026)
 Overview
 This interactive Sales Dashboard provides executive-level visibility into key business metrics, revenue streams, product performance, and geographic distribution for 2026. Designed for quick analysis and dynamic filtering, the dashboard enables stakeholders to track growth, evaluate profitability, and drill down into specific sales channels, regions, and customer segments.
